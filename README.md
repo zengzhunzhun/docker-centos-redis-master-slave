@@ -1,4 +1,4 @@
-# docker-centos-redis-master-slave
+# haproxy-docker-centos-redis-master-slave
 本地下载然后通过dockerfile构建镜像
 
 		git clone https://github.com/zengzhunzhun/docker-centos-redis-master-slave.git 
